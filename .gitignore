@@ -209,3 +209,4 @@ __marimo__/
 artifact/
 replacements.txt
 .env
+workflow.txt
